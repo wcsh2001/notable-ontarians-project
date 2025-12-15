@@ -33,8 +33,8 @@ The verified datasets will be incorporated into the **Riding Profiles**, a widel
 
 ## Data
 This repository includes two tabular datasets:
-- **[Notable people](data/wikidata-notable-people-ON)**
-- **[Fun facts](data/fun-facts)**
+- **[Notable people](data/notable-people.xlsx)**
+- **[Fun facts](data/fun-facts.xlsx)**
 
 ### Data Sources
 - Riding facts were gathered by librarians at the **Ontario Legislative Library**
@@ -44,8 +44,7 @@ This repository includes two tabular datasets:
 ---
 
 ## Documentation
-- [Filter overview and data verification](docs/filter-overview.md)
-- Additional notes on data sources, categorization, and limitations are provided in the `docs/` folder
+- [Filter overview and data verification](docs/filter-overview.md) is provided in the `docs/` folder
 
 ---
 
